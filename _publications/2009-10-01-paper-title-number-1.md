@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Unveiling the Black Box of PLMs with Semantic Anchors: Towards Interpretable Neural Semantic Parsing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: arxiv.org/abs/2210.01425
+excerpt: 'This paper is about improving NL2SQL, NL2SPARQL semantic parsing accuracy and interpretability with intermediate training target.'
+date: 2023-02-14
+venue: 'AAAI 2023 Main Conference Long Paper'
+paperurl: 'https://arxiv.org/abs/2210.01425'
+citation: 'Nie, Lunyiu, et al. "Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing." arXiv preprint arXiv:2210.01425 (2022).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about improving NL2SQL, NL2SPARQL semantic parsing accuracy and interpretability with intermediate training target.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2210.01425.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nie, Lunyiu, et al. "Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing." arXiv preprint arXiv:2210.01425 (2022).
