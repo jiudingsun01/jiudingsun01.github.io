@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate student at Northeastern University in the [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) with a major in mathematics and computer science. I work on NLP/ML/DM. I studied at Tsinghua University in my sophomore year and worked with Professor [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) on Semantic Parsing and Knowledge Base Question Answering (KBQA). 
+I am a junior undergraduate student at Northeastern University in the [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) with a major in mathematics and computer science. I work on NLP/ML/DM. I studied at Tsinghua University in my sophomore year and worked with professor [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) on Semantic Parsing and Knowledge Base Question Answering (KBQA). I am now working with professor [Wallace Byron](https://www.byronwallace.com/) on instruction fine-tuning and summarization factuality.
 
 Research Interest
 ======
@@ -16,8 +16,10 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Graduation Plan
+Doctorial Plan
 ======
+
+I intend to graduate from college on May 2024 and pursuit a doctoral program 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -25,6 +27,8 @@ Graduation Plan
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-For more info
+Contact Information
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Email Address: jiuding.sun@gmail.com / sun.jiu@northeastern.edu
+Phone number: (401)-871-4285
+
