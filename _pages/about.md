@@ -10,10 +10,6 @@ redirect_from:
 
 I am a junior undergraduate student at Northeastern University in the [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) with a major in mathematics and computer science. I work on NLP/ML/DM. I studied at Tsinghua University in my sophomore year and worked with professor [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) on Semantic Parsing and Knowledge Base Question Answering (KBQA). I am now working with professor [Wallace Byron](https://www.byronwallace.com/) on instruction fine-tuning and summarization factuality.
 
-Research Interest
-======
-
-
 Doctoral Plan
 ======
 
