@@ -22,7 +22,7 @@ Work experience
   
 * Spring 2023 : Undergraduate Researcher
   * Northeastern University 
-  * Research focus: 
+  * Research focus: Instruction Fine-tuning, Summarization, Factuality
   * Supervisor: Professor Wallace Byron
   
 Skills
@@ -39,19 +39,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
