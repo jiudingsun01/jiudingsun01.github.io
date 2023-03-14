@@ -28,6 +28,7 @@ I intend to graduate from college on Spring 2024 and start pursuing a doctoral p
 
 Contact Information
 ------
-Email Address: jiuding.sun@gmail.com / sun.jiu@northeastern.edu
+Email Address: jiuding.sun@gmail.com / sun.jiu@northeastern.edu 
+
 Phone number: (401)-871-4285
 
