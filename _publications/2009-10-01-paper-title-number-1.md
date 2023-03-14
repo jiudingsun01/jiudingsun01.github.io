@@ -5,6 +5,5 @@ excerpt: 'Lunyiu Nie*, **Jiuding Sun***, Yanlin Wang, Lun Du, Lei Hou, Juanzi Li
 date: 2023-02-14
 venue: 'AAAI 2023 Main Conference Long Paper'
 paperurl: 'https://arxiv.org/abs/2210.01425'
-citation: 'Nie, Lunyiu, et al. "Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing." arXiv preprint arXiv:2210.01425 (2022).'
 ---
-[Download paper here](https://arxiv.org/pdf/2210.01425.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
