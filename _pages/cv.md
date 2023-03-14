@@ -27,12 +27,22 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+  * Advanced Calculus and Linear Algebra
+  * Differential Geometry
+  * Statistics
+  * O.D.Es, P.D.Es, S.D.Es
+  * Other undergrad-level math courses
+* Programming
+  * Python, Java, C/C++, Web(Crowdsourcing platform) Programming, SQL/SPARQL
+  * Undergrad-level Algorithms (Graph, sorting, etc.)
+  * Linux & Server
+* Machine Learning / Natural Language Processing
+  * PyTorch, TensorFlow, Huggingface transformers
+  * Acceleration frameworks (e.g. Deepspeed), distributed parallelism
+  * Large-scale pre-training
+  * Independent research
+  * Paper writing & presentation
 
 Publications
 ======
