@@ -13,13 +13,12 @@ I am a junior undergraduate student at Northeastern University in the [Khoury Co
 Doctoral Plan
 ======
 
-I intend to graduate from college on Spring 2024 and start pursuing a doctoral program at Fall 2024. I am humbly awaiting for any opportunities in the related fields. Here I listed a few facts about me for you to see if I am a good fit for your research group:
+I intend to graduate from college on Spring 2024 and start pursuing a **doctoral program** at **Fall 2024**. I am humbly awaiting for any opportunities in the related fields. Here are some simple facts about me for you to know me better!
 
-1. I really love NLP so I tend to spend much time on reserach. 
-2. Instead of solving a problem at its level, I would like to dive a level deeper to provide a more fundamental and general improvement.
-3. I think AI4Science has a great potential and would very much like to explore more of that
-4. Code Generation is fun and useful!
-5. Under the current paradigm, my preference for NLP research is: analysis > resrouce > methodology
+1. I tend to spend much time in the lab. 
+2. Always attracted by simple but fundamental things.
+3. Code generation, AI4Science, and Medical NLP are areas that I most likely to explore!
+4. Love photography, skiing, electric guitar, and bartending!
 
 
 Contact Information
