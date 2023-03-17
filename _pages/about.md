@@ -19,6 +19,7 @@ I intend to graduate from college on Spring 2024 and start pursuing a **doctoral
 2. Always attracted by simple but fundamental things.
 3. Code generation, AI4Science, and Medical NLP are areas that I most likely to explore!
 4. Love photography, skiing, electric guitar, and bartending!
+5. Love to have a mentor who I can build close relationship with!
 
 
 Contact Information
