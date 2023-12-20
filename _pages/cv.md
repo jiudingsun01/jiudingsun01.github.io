@@ -22,7 +22,7 @@ Work experience
   
 * Spring 2023 : Undergraduate Researcher
   * Northeastern University 
-  * Research focus: Instruction Fine-tuning, Summarization, Factuality
+  * Research focus: Instruction following LLMs, model interpretability
   * Supervisor: Professor Wallace Byron
   
 Skills
